@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>759</width>
+    <height>583</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <widget class="QPushButton" name="button_00">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>75</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgb(42, 201, 57);</string>
+    </property>
+    <property name="text">
+     <string>00</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="button_0">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>60</y>
+      <width>75</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgb(42, 201, 57);</string>
+    </property>
+    <property name="text">
+     <string>0</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="gridLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>10</y>
+      <width>521</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout_2">
+     <item row="1" column="8">
+      <widget class="QPushButton" name="button_26">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>26</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="7">
+      <widget class="QPushButton" name="button_24">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>24</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="7">
+      <widget class="QPushButton" name="button_22">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>22</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="3">
+      <widget class="QPushButton" name="button_10">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>10</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="3">
+      <widget class="QPushButton" name="button_12">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>12</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="3">
+      <widget class="QPushButton" name="button_11">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>11</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="7">
+      <widget class="QPushButton" name="button_23">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>23</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="5">
+      <widget class="QPushButton" name="button_17">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>17</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="4">
+      <widget class="QPushButton" name="button_13">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>13</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="4">
+      <widget class="QPushButton" name="button_14">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>14</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="6">
+      <widget class="QPushButton" name="button_20">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>20</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="5">
+      <widget class="QPushButton" name="button_18">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>18</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="4">
+      <widget class="QPushButton" name="button_15">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>15</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="5">
+      <widget class="QPushButton" name="button_16">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>16</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="8">
+      <widget class="QPushButton" name="button_25">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>25</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="0">
+      <widget class="QPushButton" name="button_1">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>1</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="6">
+      <widget class="QPushButton" name="button_19">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>19</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QPushButton" name="button_6">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>6</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="QPushButton" name="button_5">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>5</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QPushButton" name="button_2">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>2</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="0">
+      <widget class="QPushButton" name="button_3">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>3</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="2">
+      <widget class="QPushButton" name="button_8">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>8</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QPushButton" name="button_4">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>4</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="2">
+      <widget class="QPushButton" name="button_9">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>9</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="2">
+      <widget class="QPushButton" name="button_7">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>7</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="6">
+      <widget class="QPushButton" name="button_21">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>21</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="8">
+      <widget class="QPushButton" name="button_27">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>27</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="9">
+      <widget class="QPushButton" name="button_28">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>28</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="10">
+      <widget class="QPushButton" name="button_33">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>33</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="9">
+      <widget class="QPushButton" name="button_29">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>29</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="9">
+      <widget class="QPushButton" name="button_30">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>30</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="10">
+      <widget class="QPushButton" name="button_31">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>31</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="10">
+      <widget class="QPushButton" name="button_32">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>32</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="11">
+      <widget class="QPushButton" name="button_34">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>34</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="11">
+      <widget class="QPushButton" name="button_36">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(255, 42, 57);</string>
+       </property>
+       <property name="text">
+        <string>36</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="11">
+      <widget class="QPushButton" name="button_35">
+       <property name="styleSheet">
+        <string notr="true">background-color:rgb(17, 10, 21); color:&quot;white&quot;</string>
+       </property>
+       <property name="text">
+        <string>35</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QLabel" name="top_numbers">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>150</y>
+      <width>231</width>
+      <height>381</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+    </property>
+   </widget>
+   <widget class="QPlainTextEdit" name="history">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>150</y>
+      <width>281</width>
+      <height>381</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="clear_all_bets">
+    <property name="geometry">
+     <rect>
+      <x>630</x>
+      <y>60</y>
+      <width>121</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgb(255, 42, 57);</string>
+    </property>
+    <property name="text">
+     <string>Clear All</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="delete_last_bet">
+    <property name="geometry">
+     <rect>
+      <x>630</x>
+      <y>0</y>
+      <width>121</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgb(111, 193, 255);</string>
+    </property>
+    <property name="text">
+     <string>Delete Previous Bet</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>130</y>
+      <width>47</width>
+      <height>13</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>History</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>130</y>
+      <width>91</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Top Numbers</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>759</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
