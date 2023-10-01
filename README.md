@@ -1,7 +1,9 @@
 # Casino Helper Project by Qiforiuc
-
+![casino_Logo.png](assets%2Fcasino_Logo.png)
 
 ## Getting Started
 
-- To download the .rar file just click the _download_ button below:
-<a href="https://github.com/Qiforiuc/GTACasinoHelper/blob/master/casino.rar" download="casino.rar">Download [file name]</a>
+- To download the .rar file
+- Create a foulder for the program
+- Coppy all files from .rar to your foulder
+- Run Casino.exe
